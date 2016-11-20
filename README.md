@@ -8,4 +8,6 @@ Before implementing the whole system in an architectural simulator, we did some 
 
 Our preliminary results show that the neural network can quickly train itself to achieve 99% accuracy in categorizing the correctness of any RAW dependences.
 
-Publication Link:
+# Publication
+
+<https://www.academia.edu/7859828/Concurrency_Bug_Detection_and_Avoidance_Through_Continuous_Learning_of_Invariants_Using_Neural_Networks_in_Hardware>
